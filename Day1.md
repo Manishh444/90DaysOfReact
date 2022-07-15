@@ -16,9 +16,9 @@
       <li> **It has a unidirectional flow :** Suppose we have a web application it has a state. State is nothing but a JavaScript object. A component is also there it is nothing but a function. It is sometimes referred to as JSX. This will create a React library function which will contains the state and the component as the parameters. This will generate a virtual DOM  which will act as
         a blueprint for the actual DOM. So, in the actual DOM will refer to this blueprint and compare the two DOMs. This process is called as **reconciliation** and is achieved with the help something called as a diffing algorithm react modifies that particular component only. More on diffing algorithm can be found out here: (https://www.geeksforgeeks.org/what-is-diffing-algorithm/#:~:text=React%20uses%20a%20heuristic%20algorithm,not%20need%20to%20be%20checked.)
     <li> To understand this I have created diagram for the same:<br/>
-    <img src="https://user-images.githubusercontent.com/68496657/179281845-0a2d41e6-6d7d-41f3-bd67-c88e89c7755b.png" alt="React Architecture" />
-      
+    <img src="https://user-images.githubusercontent.com/68496657/179281845-0a2d41e6-6d7d-41f3-bd67-c88e89c7755b.png" alt="React Architecture" />      
     <li> React just controls the UI, the rest is upto you. It will just control the UI render the pages with reusable components and the rest you can choose different libraries and mix and match.
+  </ol>
       
       
     
