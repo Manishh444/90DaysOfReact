@@ -18,6 +18,8 @@
     <li> To understand this I have created diagram for the same:<br/>
     <img src="https://user-images.githubusercontent.com/68496657/179281845-0a2d41e6-6d7d-41f3-bd67-c88e89c7755b.png" alt="React Architecture" />
       
+    <li> React just controls the UI, the rest is upto you. It will just control the UI render the pages with reusable components and the rest you can choose different libraries and mix and match.
+      
       
     
         
